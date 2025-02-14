@@ -1,5 +1,8 @@
 # senior_thesis_v2
 
+## all.zip
+- Texファイルや図のpdfなど
+
 ## utsunomiya_2025-02-13t.pdf
 - 論文の主要部
 
