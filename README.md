@@ -1,5 +1,3 @@
-# senior_thesis_v2
-
 ## 📂 アーカイブ
 - **all.zip**：論文のTeXソース・図PDFなど
 - **all_abst.zip**：発表要旨（概要）のTeXソース・図PDFなど
