@@ -16,6 +16,7 @@
 - プレゼンテーション資料
 
 ## utsunomiya_2025-02-13t.pdf
+## <span style="color:red;">utsunomiya_2025-02-13t.pdf</span>
 - 論文の主要部
 
 ## utsunomiya_2025_02_13_experiment1.ipynb
