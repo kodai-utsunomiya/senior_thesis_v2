@@ -1,7 +1,10 @@
 # senior_thesis_v2
 
 ## all.zip
-- Texファイルや図のpdfなど
+- 論文のTexソースや図のpdfなど
+
+## all_abst.zip
+- 発表要旨（概要）のTexソースや図のpdfなど
 
 ## utsunomiya_2025-02-13abst.pdf
 - 発表要旨（概要）
