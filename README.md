@@ -6,6 +6,9 @@
 ## all_abst.zip
 - 発表要旨（概要）のTexソースや図のpdfなど
 
+## all_presen.zip
+- プレゼンテーション資料のTexソースや図のpdfなど
+
 ## utsunomiya_2025-02-13abst.pdf
 - 発表要旨（概要）
 
