@@ -9,6 +9,9 @@
 ## utsunomiya_2025-02-13abst.pdf
 - 発表要旨（概要）
 
+## utsunomiya_2025-02-13p.pdf
+- プレゼンテーション資料
+
 ## utsunomiya_2025-02-13t.pdf
 - 論文の主要部
 
